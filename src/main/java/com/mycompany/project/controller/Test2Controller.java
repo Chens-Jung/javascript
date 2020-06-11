@@ -4,4 +4,8 @@ public class Test2Controller {
 	public void method1() {
 		
 	}
+	
+	public void method2() {
+		
+	}
 }
