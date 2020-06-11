@@ -9,7 +9,12 @@ public class Test2Controller {
 		
 	}
 	
-	public void method4() {
+	public void method3() {
 		
 	}
+	
+	public void method4() {
+	
+	}
+	
 }
