@@ -1,0 +1,23 @@
+button {
+	margin-bottom: 10px;
+}
+
+#container {
+	margin-bottom: 20px;
+	padding: 10px;
+	border-top: 1px solid black;
+}
+
+#div1 {
+	width: 100px;
+	height: 100px;
+	border: 1px solid orange;
+	display: inline-block;
+}
+
+.class1 {
+	width: 100px;
+	height: 100px;
+	border: 1px solid orange;
+	display: inline-block;
+}
